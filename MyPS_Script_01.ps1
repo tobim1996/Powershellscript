@@ -1,0 +1,1 @@
+write-host "Hallo ihr NEger"
